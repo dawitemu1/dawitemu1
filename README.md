@@ -11,8 +11,6 @@
 ## About Me
 Dawit Shibabaw Bogale is an accomplished data scientist and researcher with a strong academic and professional background in information science, Data scientist and Big data analytics. Dawit began his academic journey by obtaining a Bachelor’s degree in Information Science from the University of Gondar, Ethiopia, in July 2018. He then pursued a Master’s degree in Data Science and Analytics at the same university, which he completed in February 2022.
 
-Currently, Dawit is a Research fellow in Data Science at Bahir Dar University’s Institute of Technology, where he has been enrolled since December 2022. He is also a Research Fellow and Team Member at the Data Science for Social Impact initiative at the University of Pretoria, south Africa, under the mentorship of Professor Vukosi Marivate. 
-
 Dawit’s expertise extends across various domains within data science, including machine learning, big data analytics, and artificial intelligence. His skill set is further reinforced by numerous certifications from prestigious institutions, including IBM, university of california, Linux Foundation, JPMC AI in Africa, Google cloud, Columbia University, Duke university, Google, and the International Institute of Online Education. These certifications cover a wide range of topics such as machine learning, computer vison, Big data analytics, deep learning, cybersecurity, blockchain, LLM, image caption, and generative AI.
 
 ## 🌐 Socials:
