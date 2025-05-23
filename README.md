@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on  **Medical Image captioning Using Vison Transformer and Generative AI**
+- 🔭 I’m currently working on  **Medical Image captioning Using Vison Transformer fused Generative AI**
 - 🌱 I’m currently learning  **NLP and Computer vision**
 - 👯 I’m looking to collaborate on **Small LLM and Retrieval-Augmented Generation (RAG)**
 - 🤔 I’m looking for help with **NLP and Large Language model**
