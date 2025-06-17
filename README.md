@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on **Small LLM and Retrieval-Augmented Generation (RAG)**
 - 🤔 I’m looking for help with **NLP and Large Language model**
 - 💬 Ask me about **AI, LLM, Generative AI**
-- 📫 Portfolio: **https://dawitemu1.github.io** 
+- 📫 Portfolio: **https:/dawitemu1.github.io** 
 - 📫 How to reach me: **BDU1500754@bdu.edu.et/dawitshibabaw14@gmail.com/bogaledawit34@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: *reading Book and palying football*
