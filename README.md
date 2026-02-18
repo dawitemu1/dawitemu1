@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  **NLP and Computer vision**
 - 👯 I’m looking to collaborate on **Small LLM and Retrieval-Augmented Generation (RAG)**
 - 🤔 I’m looking for help with **NLP and Large Language model**
-- 💬 Ask me about **AI, LLM, Generative AI**
+- 💬 Ask me about **Agentic AI, LLM, Generative AI and Compuer vision**
 - 📫 Portfolio: **https://dawitemu1-github-io.vercel.app/** 
 - 📫 How to reach me: **BDU1500754@bdu.edu.et/dawitshibabaw14@gmail.com/bogaledawit34@gmail.com**
 - 😄 Pronouns: He/Him
